@@ -1,2 +1,1 @@
-# flagtree_guide
-Search entry for FlagTree
+[https://github.com/FlagTree/flagtree](https://github.com/FlagTree/flagtree)
